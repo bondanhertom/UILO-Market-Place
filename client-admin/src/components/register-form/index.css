@@ -1,0 +1,39 @@
+.form-outline {
+    position: relative;
+}
+
+.form-outline input {
+    font-size: 1rem;
+    color: #495057;
+}
+
+.form-outline label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 1rem;
+    color: #495057;
+    transition: 0.2s all;
+    pointer-events: none;
+}
+
+.form-outline input:focus~label,
+.form-outline input:not(:placeholder-shown)~label {
+    transform: translateY(-1.25rem) scale(0.75);
+    color: #6c757d;
+}
+
+.btn-smtg {
+    background-color: #6c757d;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    transition: 0.2s all;
+}
+
+.btn-smtg:hover {
+    background-color: #5a6268;
+}

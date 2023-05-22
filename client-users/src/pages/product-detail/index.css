@@ -1,0 +1,44 @@
+.slick-list,
+.slick-slide {
+    text-align: center;
+}
+
+.section {
+    padding: 30px 0;
+}
+
+.left-images img {
+    max-width: 100%;
+    /* height: auto;
+    max-height: 500px; */
+    /* ubah nilai max-height sesuai kebutuhan */
+}
+
+
+.slick-dots li button:before {
+    font-size: 12px;
+    color: #999;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #000;
+}
+
+.right-content h4 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.right-content .price {
+    font-size: 24px;
+    font-weight: 700;
+    color: #d21f3c;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.right-content span {
+    font-size: 16px;
+    line-height: 1.5;
+}

@@ -1,0 +1,126 @@
+{
+  "Users": [
+    {
+   
+      "username": "Bondan",
+      "email": "bondanherutomo35@gmail.com",
+      "password": "bondan123",
+      "role": "Admin",
+      "phoneNumber": "082111733373",
+      "address": "Depok Jawa barat"
+    },
+    {
+   
+      "username": "Vivi",
+      "email": "vivialfianau@gmail.com",
+      "password": "vivi123",
+      "role": "Admin",
+      "phoneNumber": "082888700373",
+      "address": "Depok Jawa barat"
+    }
+  ],
+  "Products": [
+    {
+  
+      "name": "T-Shirt Kerah U",
+      "slug": "u-tshirt",
+      "description": "T-shirt Pria dan Wanita dari bahan 100% katun. Produk basic yang mudah dipadupadankan.",
+      "price": 200000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/455360/item/idgoods_64_455360.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+   
+      "name": "Jaket Relax Tailored",
+      "slug": "jaket-relax-tailored",
+      "description": "Jas formal untuk acara resmi. Terbuat dari bahan berkualitas tinggi dan memiliki potongan yang pas di badan.",
+      "price": 1500000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453032/sub/goods_453032_sub11.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+   
+      "name": "Celana Lebar Lipit",
+      "slug": "celana-lebar-lipit",
+      "description": "Celana panjang Wanita dengan desain lebar dan bahan yang terlihat mewah. Aksen lipit dan belt loops untuk tampilan rapi.",
+      "price": 599000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457376001/item/idgoods_31_457376001.jpg?width=750",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+     
+      "name": "Tas Kanvas Trendy",
+      "slug": "tas-kanvas-trendy",
+      "description": "Tote bag dengan 3 lapisan yang mampu menghalangi masuknya air. Terdapat saku bagian dalam untuk kemudahan penyimpanan. Produk ini tidak dapat dikembalikan.",
+      "price": 399000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456370001/sub/goods_456370001_sub1.jpg?width=750",
+      "categoryId": 2,
+      "authorId": 2
+    },
+    {
+   
+      "name": "T-Shirt Oversize Katun ",
+      "slug": "t-shirt-oversize",
+      "description": "T-shirt Wanita dengan potongan oversize yang terasa nyaman. Lipat bagian lengan untuk aksen stylish.",
+      "price": 100000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/458963/item/idgoods_00_458963.jpg?width=750",
+      "categoryId": 1,
+      "authorId": 1
+    }
+  ],
+  "Categories": [
+    {
+   
+      "name": "ATASAN"
+    },
+    {
+   
+      "name": "AKSESORIS"
+    },
+    {
+    
+      "name": "BAWAHAN"
+    }
+  ],
+  "Images": [
+    {
+      "productId": 1,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455360/sub/goods_455360_sub14.jpg?width=750"
+    },
+
+    {
+    
+      "productId": 1,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455360/sub/goods_455360_sub19.jpg?width=750"
+    },
+
+    {
+      "productId": 2,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453032/sub/goods_453032_sub17.jpg?width=750"
+    },
+
+    {
+    
+      "productId": 2,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453032/sub/goods_453032_sub18.jpg?width=750"
+    },
+
+    {
+      "productId": 3,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457376001/sub/goods_457376001_sub11.jpg?width=750"
+    },
+    {
+   
+      "productId": 3,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457376001/sub/goods_457376001_sub17.jpg?width=750"
+    }
+
+
+
+
+
+  ]
+}
